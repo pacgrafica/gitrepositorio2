@@ -1,8 +1,8 @@
 body{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 h1{
-    color: blanchedalmond;
+    color: black;
 }
 .centrar{
     margin: auto;
@@ -22,5 +22,5 @@ h1{
     height: 250px;
 }
 p{
-    color: wheat;
+    color: rgb(5, 5, 5);
 }
